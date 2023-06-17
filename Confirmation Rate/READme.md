@@ -32,14 +32,16 @@ user_id is a foreign key with a reference to the Signups table. <br/>
 action is an ENUM of the type ('confirmed', 'timeout') </b><br/>
 </br>
 Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
-<br/>
-<br/>
+</br>
+</br>
 The confirmation rate of a user is the number of 'confirmed' messages divided by the total number of requested confirmation messages. The confirmation rate of a user that did not request any confirmation messages is 0. Round the confirmation rate to two decimal places.
-<br/>
+</br>
+</br>
 Write an SQL query to find the confirmation rate of each user.
-<br/>
+</br>
+</br>
 Return the result table in any order.
-<br/>
+</br>
 The query result format is in the following example:  
 </br>
 
