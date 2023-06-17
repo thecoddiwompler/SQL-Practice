@@ -48,7 +48,7 @@ Input
 </summary>
 
 | id  | name  | department | managerId |  
-| ------------------------------------ | 
+| --- |------ | ---------- | --------- | 
 | 101 | John  | A          | None      |  
 | 102 | Dan   | A          | 101       |  
 | 103 | James | A          | 101       |  
