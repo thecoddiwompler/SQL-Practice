@@ -14,11 +14,7 @@
 
 ## 🛠️ Problem Statement
 
-
-<details>
- <summary>
-  Employees
- </summary>
+  <b>Employees</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
@@ -26,8 +22,6 @@
 | name  | varchar  |
 | department | varchar |
 | managerId | int |
->
-</details>
 
 id is the primary key column for this table.  
   
