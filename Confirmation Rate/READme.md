@@ -9,18 +9,18 @@
 ## 🛠️ Problem Statement
 
   <b>Table Name : Signups</b>
-
+</br>
 |  Column Name  |Type |
 | ------------- | ------------- |
 | user_id  | int  |
 | timestamp  | datetime  |
 
-<b> user_id is the primary key for this table. <br/>
-Each row contains information about the signup time for the user with ID user_id.</b>
+<b> user_id is the primary key for this table. </b><br/>
+Each row contains information about the signup time for the user with ID user_id.
 <br/>
 
   <b>Table Name : Confirmations</b>
-
+</br>
 |  Column Name  |Type |
 | ------------- | ------------- |
 | user_id  | int  |
@@ -29,8 +29,9 @@ Each row contains information about the signup time for the user with ID user_id
 </br>
 <b> (user_id, time_stamp) is the primary key for this table. <br/>
 user_id is a foreign key with a reference to the Signups table. <br/>
-action is an ENUM of the type ('confirmed', 'timeout') <br/>
-Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').</b>
+action is an ENUM of the type ('confirmed', 'timeout') </b><br/>
+</br>
+Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
 <br/>
 <br/>
 The confirmation rate of a user is the number of 'confirmed' messages divided by the total number of requested confirmation messages. The confirmation rate of a user that did not request any confirmation messages is 0. Round the confirmation rate to two decimal places.
@@ -58,7 +59,7 @@ Input
 <b>Table Name : Confirmations</b>
 </br>
 | user_id  | timestamp  | action |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | 3       | 2021-01-06 03:30:46 | timeout   |
 | 3       | 2021-07-14 14:00:00 | timeout   |
 | 7       | 2021-06-12 11:57:29 | confirmed |
