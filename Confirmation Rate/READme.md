@@ -41,6 +41,7 @@ Write an SQL query to find the confirmation rate of each user.
 Return the result table in any order.
 <br/>
 The query result format is in the following example:  
+</br>
 
  <details>
 <summary>
@@ -58,8 +59,8 @@ Input
 <br/>
 <b>Table Name : Confirmations</b>
 </br>
-| user_id  | timestamp  | action |
-| ---- | ---- | ---- |
+| user_id  | timestamp  |  action |
+| --- | ------ | ------ |
 | 3       | 2021-01-06 03:30:46 | timeout   |
 | 3       | 2021-07-14 14:00:00 | timeout   |
 | 7       | 2021-06-12 11:57:29 | confirmed |
@@ -67,6 +68,7 @@ Input
 | 7       | 2021-06-14 13:59:27 | confirmed |
 | 2       | 2021-01-22 00:00:00 | confirmed |
 | 2       | 2021-02-28 23:59:59 | timeout   |
+
 </details>
 
 <details>
