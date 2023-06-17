@@ -57,8 +57,10 @@ Input
 | 2       | 2020-07-29 23:09:44 |
 | 6       | 2020-12-09 10:39:37 | 
 <br/>
+
 <b>Table Name : Confirmations</b>
 </br>
+
 | user_id  | timestamp  |  action |
 | --- | ------ | ------ |
 | 3       | 2021-01-06 03:30:46 | timeout   |
