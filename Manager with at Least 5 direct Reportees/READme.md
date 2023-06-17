@@ -10,7 +10,7 @@
 
 ## 🛠️ Problem Statement
 
-  <b>Employees</b>
+  <b>Table Name : Employees</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
@@ -19,7 +19,8 @@
 | department | varchar |
 | managerId | int |
 
-id is the primary key column for this table.  
+<b>id is the primary key column for this table.  </b>
+<br/>
   
 Each row of this table indicates the name of an employee, their department, and the id of their manager.  
 If managerId is null, then the employee does not have a manager.    
