@@ -10,7 +10,7 @@
 
 ## 🛠️ Problem Statement
 
-  <b>Table Name : Employees</b>
+  <b>Table Name : Employee</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
