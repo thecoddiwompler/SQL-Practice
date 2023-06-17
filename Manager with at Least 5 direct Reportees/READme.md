@@ -6,10 +6,6 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/thecoddiwompler?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/thecoddiwompler)
 
-
-<p align="center">
-<img src="https://github.com/thecoddiwompler/8-week-sql-challenge/blob/main/IMG/diner.png" width=50% height=50%>
-
 ---
 
 ## 🛠️ Problem Statement
