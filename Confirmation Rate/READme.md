@@ -42,7 +42,9 @@ Write an SQL query to find the confirmation rate of each user.
 </br>
 Return the result table in any order.
 </br>
+</br>
 The query result format is in the following example:  
+</br>
 </br>
 
  <details>
