@@ -39,11 +39,10 @@ The confirmation rate of a user is the number of 'confirmed' messages divided by
 </br>
 Write an SQL query to find the confirmation rate of each user.
 </br>
-</br>
 Return the result table in any order.
 </br>
 </br>
-The query result format is in the following example:  
+<b>The query result format is in the following example:  </b>
 </br>
 </br>
 
