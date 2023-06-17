@@ -19,12 +19,14 @@
  <summary>
   Schema
  </summary>
-| Column Name | Type    | 
-|-----------------------| 
-| id          | int     | 
-| name        | varchar | 
-| department  | varchar |  
-| managerId   | int     | 
+
+ |  Column Name  |Type |
+| ------------- | ------------- |
+| id  | int  |
+| name  | varchar  |
+| department | varchar |
+| managerId | int |
+
 </details>
 
 id is the primary key column for this table.  
