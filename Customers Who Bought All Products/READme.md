@@ -26,8 +26,7 @@ product_key is a foreign key to Product table.
 | ------------- | ------------- |
 | product_key  | int  |
 
-</br>
-<b> product_key is the primary key column for this table. <br/>
+<b> product_key is the primary key column for this table. </b><br/>
 </br>
 
 Write an SQL query to report the customer ids from the Customer table that bought all the products in the Product table.
