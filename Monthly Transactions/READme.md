@@ -37,7 +37,7 @@ Input
 </summary>
 </br>
 
-<b> Table Name: Transadtions <b/></br>
+<b> Table Name: Transactions </b></br>
 
 | id   | country | state    | amount | trans_date |
 | --------- | ------------- | ---------------- | -------------------- | ----------------------- |
