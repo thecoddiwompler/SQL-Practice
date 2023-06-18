@@ -47,6 +47,7 @@ Input
 Output
 </summary>
 </br>
+  
 | fraction |  
 | ---- |  
 | 0.33 |
