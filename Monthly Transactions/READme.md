@@ -19,10 +19,10 @@
 | trans_date | date |
 
 <b>id is the primary key of this table.</b>
-<br/>
-  
+</br>
+
 The table has information about incoming transactions.
-The state column is an enum of type ["approved", "declined"].   
+The state column is an enum of type ["approved", "declined"].
 </br>
   
 Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
