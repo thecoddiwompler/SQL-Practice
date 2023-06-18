@@ -35,6 +35,7 @@ The query result format is in the following example.
 <summary>
 Input
 </summary>
+</br>
 
 | id   | country | state    | amount | trans_date |
 | --------- | ------------- | ---------------- | -------------------- | ----------------------- |
@@ -49,6 +50,7 @@ Input
 <summary>
 Output
 </summary>
+</br>
 
 | month    | country | trans_count | approved_count | trans_total_amount | approved_total_amount |
 | --------- | ------------- | ---------------- | -------------------- | ----------- | ---------- |
