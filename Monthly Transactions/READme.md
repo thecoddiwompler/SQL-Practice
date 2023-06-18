@@ -37,6 +37,8 @@ Input
 </summary>
 </br>
 
+<b> Table Name: Transadtions <b/></br>
+
 | id   | country | state    | amount | trans_date |
 | --------- | ------------- | ---------------- | -------------------- | ----------------------- |
 | 121  | US      | approved | 1000   | 2018-12-18 |
