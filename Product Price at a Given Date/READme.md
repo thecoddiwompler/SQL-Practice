@@ -21,8 +21,7 @@ Each row of this table indicates that the price of some product was changed to a
 <br/>
 
 Write an SQL query to find the prices of all products on 2019-08-16. Assume the price of all products before any change is 10.  
-
-Return the result table in any order.  
+Return the result table in any order.
 </br>
 The query result format is in the following example:  
 
