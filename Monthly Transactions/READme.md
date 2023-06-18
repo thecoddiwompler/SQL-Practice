@@ -21,7 +21,7 @@
 <b>id is the primary key of this table.</b>
 </br>
 
-The table has information about incoming transactions.
+The table has information about incoming transactions. </br>
 The state column is an enum of type ["approved", "declined"].
 </br>
   
