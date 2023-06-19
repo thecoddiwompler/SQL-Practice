@@ -37,7 +37,7 @@ A company's executives are interested in seeing who earns the most money in each
 </br>
 </br>
 <b>Write an SQL query to find the employees who are high earners in each of the departments.  </b>
-
+</br>
 Return the result table in any order.
 
 The query result format is in the following example. 
