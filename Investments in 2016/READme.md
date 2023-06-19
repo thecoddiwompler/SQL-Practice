@@ -22,10 +22,10 @@
 </br>
 
 <b> Each row of this table contains information about one policy where:</b>  
-pid is the policyholder's policy ID.  
-tiv_2015 is the total investment value in 2015 and tiv_2016 is the total investment value in 2016.  
-lat is the latitude of the policy holder's city. It's guaranteed that lat is not NULL.  
-lon is the longitude of the policy holder's city. It's guaranteed that lon is not NULL.  
+* pid is the policyholder's policy ID.  
+* tiv_2015 is the total investment value in 2015 and tiv_2016 is the total investment value in 2016.  
+* lat is the latitude of the policy holder's city. It's guaranteed that lat is not NULL.  
+* lon is the longitude of the policy holder's city. It's guaranteed that lon is not NULL.  
 </br>
   
 <b> Write an SQL query to report the sum of all total investment values in 2016 tiv_2016, for all policyholders who:</b>  
