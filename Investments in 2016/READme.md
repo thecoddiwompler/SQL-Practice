@@ -41,6 +41,7 @@ Return the result table in any order.
 </br>
 The query result format is in the following example. 
 </br>
+</br>
  <details>
 <summary>
 Input
