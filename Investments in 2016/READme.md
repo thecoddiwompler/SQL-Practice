@@ -33,9 +33,9 @@
 * have the same tiv_2015 value as one or more other policyholders, and  
 * are not located in the same city like any other policyholder (i.e., the (lat, lon) attribute pairs must be unique).
 </br>
-Round tiv_2016 to two decimal places.
+Round tiv_2016 to two decimal places.  
 </br>
-Return the result table in any order.
+Return the result table in any order.  
 
 The query result format is in the following example. 
 
