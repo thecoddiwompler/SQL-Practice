@@ -26,7 +26,6 @@ Write an SQL query to swap the seat id of every two consecutive students. If the
 Return the result table ordered by id in ascending order.
 
 </br>
-</br>
 The query result format is in the following example. 
 </br>
 </br>
