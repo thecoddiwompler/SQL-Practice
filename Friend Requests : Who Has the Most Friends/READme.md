@@ -8,7 +8,7 @@
 
 ## 🛠️ Problem Statement
 
-  <b>Table Name : Insurance</b>
+  <b>Table Name : RequestAccepted</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
