@@ -13,6 +13,7 @@ Assume you're given a table containing data on Amazon customers and their spendi
 <br/>
   <b>Table Name : product_spend</b>
 <br/>
+<br/>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
