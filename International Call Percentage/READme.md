@@ -18,7 +18,7 @@
 
 </br>
 
-  <b>Table Name : Department</b>
+  <b>Table Name : phone_info</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
