@@ -8,6 +8,9 @@
 
 ## 🛠️ Problem Statement
 
+<b> This Problem appeared in PayPal Interview </b></br>
+</br>
+
 <b>Table Name : Employee</b>
 </br>
 |  Column Name  |Type |
@@ -20,8 +23,7 @@
 | emp_age | int |
 
 
-<b> user_id is the primary key for this table. </b><br/>
-Each row contains information about the signup time for the user with ID user_id.
+<b> emp_id is the primary key for this table. </b><br/>
 <br/>
 
 
