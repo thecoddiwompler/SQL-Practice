@@ -1,11 +1,11 @@
 WITH department_avg AS (
 	SELECT department_id, SUM(salary) department_salary, COUNT(emp_id) employee_count, AVG(salary) department_average_salary
-	FROM emp
+	FROM employee
 	GROUP BY department_id
 ),
 total AS (
 	SELECT COUNT(emp_id) total_employee_count, SUM(salary) total_salary
-	FROM emp
+	FROM employee
 ),
 sol AS (
 	SELECT department_id, 
