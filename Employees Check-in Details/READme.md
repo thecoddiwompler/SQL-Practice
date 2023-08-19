@@ -1,4 +1,4 @@
-# [Employees Check-in Details]
+# Employees Check-in Details
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 [![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/thecoddiwompler/SQL-Practice-Questions/tree/main)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/thecoddiwompler?tab=repositories)
@@ -7,6 +7,8 @@
 ---
 
 ## 🛠️ Problem Statement
+
+<b> This problem has been asked in Uber interview. </b>
 
   <b>Table Name : Employee Checkin Details</b>
 </br>
@@ -29,9 +31,9 @@ Each row contains information about the employees entry details (Login and Logou
 
 
 </br>
-<b> (employeeid, phone_number) is the primary key for this table. <br/>
+<b> (employeeid, phone_number) is the primary key for this table.</b> <br/>
 employeeid is a foreign key with a reference to the Employee Checkin Details table. <br/>
-isdefault is of Boolean type </b><br/>
+isdefault is of Boolean type.<br/>
 </br>
 Each row of this table gives the information about phone numbers of the employees and whether they are default phone numbers or not </br>
 </br>
