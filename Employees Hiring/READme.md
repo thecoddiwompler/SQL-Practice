@@ -39,7 +39,7 @@ Input
 <b>Table Name : Candidates</b>
 
 | id    | positions | salary |
-| --- |------ | ----|---|
+| --- |------ | ----|
 | 1      | junior       | 5000 |
 | 2      | junior       | 7000 |
 | 3      | junior       | 7000 |
