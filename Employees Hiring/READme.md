@@ -24,7 +24,7 @@ An Organization is looking to hire candidates for Senior and Juniors positions. 
 They first have to hire as much of the Senior candidates as possible and then hire for the junior positions. 
 <br/>
 </br>
-<b>Write an SQL query to report the maximum total number of candidates it is possible to hire for both Senior and Junior Positions.</b>
+<b>Write a SQL query to report the maximum total number of candidates it is possible to hire for both Senior and Junior Positions.</b>
 </br>
 </br>
 <b>The query result format is in the following example:  </b>
