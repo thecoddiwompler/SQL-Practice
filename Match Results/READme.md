@@ -8,6 +8,8 @@
 
 ## 🛠️ Problem Statement
 
+This problem has been asked in Telstra interview. I personally solved it in the interview.
+
   <b>Table Name : MatchResults</b>
 </br>
 |  Column Name  |Type |
