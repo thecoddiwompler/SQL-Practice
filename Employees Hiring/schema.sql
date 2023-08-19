@@ -1,3 +1,8 @@
+Create table candidates(
+id int primary key,
+positions varchar(10) not null,
+salary int not null);
+
 --Test Case 1
 
 TRUNCATE TABLE employees.candidates;
