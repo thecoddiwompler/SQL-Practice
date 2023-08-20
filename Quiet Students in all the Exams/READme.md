@@ -44,12 +44,6 @@ Input
 | 5          | Will         |
 
 </br>
-</details>
-
- <details>
-<summary>
-Input
-</summary>
 
 <b>Table Name : Exams</b>
 
