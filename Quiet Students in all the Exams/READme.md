@@ -9,15 +9,15 @@
 
 ## 🛠️ Problem Statement
 
-**Table Name : students**
-
+<b>Table Name : Students</b>
+</br>
 |  Column Name  | Type     |
 | ------------- | --------- |
 | student_id    | int       |
 | student_name  | varchar   |
 
-**Table Name : exams**
-
+<b>Table Name : Exams</b>
+</br>
 |  Column Name  | Type     |
 | ------------- | --------- |
 | exam_id       | int       |
@@ -28,7 +28,12 @@
 
 ### Schema
 
-#### students
+ <details>
+<summary>
+Input
+</summary>
+
+<b>Table Name : Students</b>
 
 | student_id | student_name |
 |------------|--------------|
@@ -38,7 +43,15 @@
 | 4          | Jonathan     |
 | 5          | Will         |
 
-#### exams
+</br>
+</details>
+
+ <details>
+<summary>
+Input
+</summary>
+
+<b>Table Name : Exams</b>
 
 | exam_id | student_id | score |
 |---------|------------|-------|
@@ -53,12 +66,15 @@
 | 40      | 2          | 70    |
 | 40      | 4          | 80    |
 
+</br>
+</details>
+
 <details>
 <summary>Output</summary>
 
 | student_id | student_name |
 |------------|--------------|
-| 5          | Will         |
+| 2        | Jade         |
 
 </details>
 
