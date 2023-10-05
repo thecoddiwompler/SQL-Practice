@@ -8,7 +8,7 @@
 
 ## 🛠️ Problem Statement
 
-  <b>Table Name : Numbers</b>
+  <b>Table Name : Logs</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
