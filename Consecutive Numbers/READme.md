@@ -8,7 +8,7 @@
 
 ## 🛠️ Problem Statement
 
-  <b>Table Name : Employee</b>
+  <b>Table Name : Numbers</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
