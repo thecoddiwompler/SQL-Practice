@@ -1,3 +1,3 @@
 # SQL Practice Problems
 
-This repository contains random SQL Questions which I liked.
+This repository serves as a collection of diverse and intriguing SQL questions. Covering various aspects of SQL, these questions aim to challenge and enhance one's understanding of relational databases. Whether you're a beginner looking to solidify your SQL skills or an experienced professional seeking to stay sharp, this repository provides a curated selection of questions to stimulate your SQL knowledge.
