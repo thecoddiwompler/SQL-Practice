@@ -32,6 +32,8 @@ The query result format is in the following example:
 Input
 </summary>
 
+<br>
+
 <b> Table Name: Sales
 
 | order_date | customer | qty |
@@ -53,6 +55,8 @@ Input
 <summary>
 Output
 </summary>
+
+<br>
 
 | order_month |  customer_acquisition_count |
 | ---- |  ---- |
