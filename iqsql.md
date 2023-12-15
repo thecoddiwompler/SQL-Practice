@@ -1,6 +1,7 @@
 1. Department Top 3 Salary
-2. Employees Hiring [Difficult]
-3. Highest-Grossing Items
-4. Manager with at least 5 direct reportees
-5. Odd and Even Measurements
-6. Qualifying Criteria
+2. Employees Check-in Details
+3. Employees Hiring [Difficult]
+4. Highest-Grossing Items
+5. Manager with at least 5 direct reportees
+6. Odd and Even Measurements
+7. Qualifying Criteria
