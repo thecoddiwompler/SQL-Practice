@@ -3,5 +3,6 @@
 3. Employees Hiring [Difficult]
 4. Highest-Grossing Items
 5. Manager with at least 5 direct reportees
-6. Odd and Even Measurements
-7. Qualifying Criteria
+6. Mismatched IDs
+7. Odd and Even Measurements
+8. Qualifying Criteria
