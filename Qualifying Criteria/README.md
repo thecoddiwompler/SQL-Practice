@@ -28,7 +28,7 @@ For a person to qualify there are 2 conditions:
     1. The person should have both the criteria as 'Y' .
     2. There should be at least 2 people in his team who qualify for the program.
   
-Write an SQL query to find all the qualified members along with their teams.
+Write a SQL query to find all the qualified members along with their teams.
 </br>
 Return the result table in any order.
 
