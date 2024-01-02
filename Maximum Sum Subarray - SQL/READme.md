@@ -31,7 +31,7 @@ You have a table `ArrayTable`, with 2 columns, as follows:
 
 <br/>
 
-Write an SQL query to find the maximum sum among all its subarrays.
+Write a SQL query to find the maximum sum among all its subarrays.
 </br>
 </br>
 <b>The query result format is in the following example:  </b>

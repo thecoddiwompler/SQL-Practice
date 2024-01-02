@@ -19,7 +19,7 @@
 id is an autoincrement column.  </b>
 </br>
 
-Write an SQL query to find all numbers that appear at least three times consecutively.  
+Write a SQL query to find all numbers that appear at least three times consecutively.  
 
 Return the result table in any order.  
 

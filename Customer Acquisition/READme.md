@@ -21,7 +21,7 @@
 <b>order_date, customer is the primary key for this table. </br>
 </b>
 
-Write an SQL query to find the count of new customers added in each Month.  
+Write a SQL query to find the count of new customers added in each Month.  
 
 Return the result table in any order.  
 

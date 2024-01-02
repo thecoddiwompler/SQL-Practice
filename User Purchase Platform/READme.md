@@ -21,7 +21,7 @@
 
 The table logs the spendings history of users that make purchases from an online shopping platform which has a desktop and a mobile application .</br>
 <br/>
-<b>Write an SQL query to find the total number of users and the total amount spent using mobile only, desktop only and both mobile and desktop together for each date as given below.</b>
+<b>Write a SQL query to find the total number of users and the total amount spent using mobile only, desktop only and both mobile and desktop together for each date as given below.</b>
 </br>
 <br/>
 Return the result table in any order.

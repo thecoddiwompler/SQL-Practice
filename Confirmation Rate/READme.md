@@ -37,7 +37,7 @@ Each row of this table indicates that the user with ID user_id requested a confi
 The confirmation rate of a user is the number of 'confirmed' messages divided by the total number of requested confirmation messages. The confirmation rate of a user that did not request any confirmation messages is 0. Round the confirmation rate to two decimal places.
 </br>
 </br>
-Write an SQL query to find the confirmation rate of each user.
+Write a SQL query to find the confirmation rate of each user.
 </br>
 Return the result table in any order.
 </br>

@@ -22,7 +22,7 @@
 This table contains the ID of the user who sent the request, the ID of the user who received the request, and the date when the request was accepted.
   
 </br>
-Write an SQL query to find the people who have the most friends and the most friends number.  
+Write a SQL query to find the people who have the most friends and the most friends number.  
 
 The test cases are generated so that only one person has the most friends.  
 The query result format is in the following example. 

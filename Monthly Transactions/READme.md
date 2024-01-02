@@ -25,7 +25,7 @@ The table has information about incoming transactions. </br>
 The state column is an enum of type ["approved", "declined"].
 </br>
   
-Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
+Write a SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
 </br>
 Return the result table in any order.
 

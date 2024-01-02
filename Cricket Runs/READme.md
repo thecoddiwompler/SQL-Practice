@@ -22,7 +22,7 @@
 
 In an ODI cricket match, you have a dataset representing deliveries during the match. The dataset contains three columns: ball_no (delivery number in the match), runs (runs scored on that delivery), and delivery_type (type of delivery: legal, nb for no ball, or wd for wide).
 
-Write an SQL query to find the runs scored in every over.  
+Write a SQL query to find the runs scored in every over.  
 
 There are a few special conditions to consider:
 

@@ -25,7 +25,7 @@ If managerId is null, then the employee does not have a manager.
 No employee will be the manager of themself.  
   
   
-Write an SQL query to report the managers with at least five direct reports.  
+Write a SQL query to report the managers with at least five direct reports.  
 
 Return the result table in any order.  
 

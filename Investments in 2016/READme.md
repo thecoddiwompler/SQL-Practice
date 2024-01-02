@@ -28,7 +28,7 @@
 * lon is the longitude of the policy holder's city. It's guaranteed that lon is not NULL.  
 </br>
   
-<b> Write an SQL query to report the sum of all total investment values in 2016 tiv_2016, for all policyholders who:</b>  
+<b> Write a SQL query to report the sum of all total investment values in 2016 tiv_2016, for all policyholders who:</b>  
 
 * have the same tiv_2015 value as one or more other policyholders, and  
 * are not located in the same city like any other policyholder (i.e., the (lat, lon) attribute pairs must be unique).

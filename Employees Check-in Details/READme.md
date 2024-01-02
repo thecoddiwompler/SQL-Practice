@@ -38,7 +38,7 @@ isdefault is of Boolean type.<br/>
 Each row of this table gives the information about phone numbers of the employees and whether they are default phone numbers or not </br>
 </br>
 </br>
-Write an SQL query to find the default the phone number, total entry count, total login and logout count, and latest login and logout time for each employees like given below.
+Write a SQL query to find the default the phone number, total entry count, total login and logout count, and latest login and logout time for each employees like given below.
 </br>
 Return the result table in any order.
 </br>

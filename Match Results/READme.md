@@ -25,7 +25,7 @@ Each row contains information about the matches played between the two teams and
 
 <br/>
 
-Write an SQL query to find the number of matches won and lost for all the teams.
+Write a SQL query to find the number of matches won and lost for all the teams.
 </br>
 Return the result table in decreasing order of the number of matches won by them.
 </br>

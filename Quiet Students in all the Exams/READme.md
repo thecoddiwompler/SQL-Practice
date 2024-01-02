@@ -24,7 +24,7 @@
 | student_id    | int       |
 | score         | int       |
 
-**Write an SQL query to find and display students who did not achieve the highest or lowest scores in any of their exams. Do not include those students who did not appear in any exam.**
+Write a SQL query to find and display students who did not achieve the highest or lowest scores in any of their exams. Do not include those students who did not appear in any exam.
 
 ### Schema
 
