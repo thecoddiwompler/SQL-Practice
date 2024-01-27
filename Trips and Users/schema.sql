@@ -3,18 +3,14 @@ CREATE TABLE IF NOT EXISTS Trips (
     client_id int,
     driver_id int,
     city_id int,
-    STATUS ENUM(
-        'completed',
-        'cancelled_by_driver',
-        'cancelled_by_client'
-    ),
+    STATUS varchar,
     request_at varchar(50)
 );
 
 CREATE TABLE IF NOT EXISTS Users (
     users_id int,
     banned varchar(50),
-    role ENUM('client', 'driver', 'partner')
+    role varchar
 );
 
 TRUNCATE TABLE Trips;
