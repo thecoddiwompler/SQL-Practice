@@ -1,14 +1,15 @@
-1. Clocked Hours
-2. Department Top 3 Salary
-3. Employees Check-in Details
-4. Employees Hiring [Difficult]
-5. Employees Log [Extra Difficult]
-6. Final Destination
-7. Highest-Grossing Items
-8. Increasing Sales Revenue
-9. Last Person to Fit in the Bus
-10. Manager with at least 5 direct reportees
-11. Mismatched IDs
-12. Odd and Even Measurements
-13. Onboarded Cities
-14. Qualifying Criteria
+1. Child - Parent - Grandparent Hierarchy
+2. Clocked Hours
+3. Department Top 3 Salary
+4. Employees Check-in Details
+5. Employees Hiring [Difficult]
+6. Employees Log [Extra Difficult]
+7. Final Destination
+8. Highest-Grossing Items
+9.  Increasing Sales Revenue
+10. Last Person to Fit in the Bus
+11. Manager with at least 5 direct reportees
+12. Mismatched IDs
+13. Odd and Even Measurements
+14. Onboarded Cities
+15. Qualifying Criteria
