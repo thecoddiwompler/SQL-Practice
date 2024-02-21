@@ -36,7 +36,6 @@ in a department to the company’s average salary. Return the result table in an
 
 The query result format is in the following example.  
 </br>
-</br>
  <details>
 <summary>
 Input
