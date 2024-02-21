@@ -6,11 +6,12 @@
 6. Employees Hiring [Difficult]
 7. Employees Log [Extra Difficult]
 8. Final Destination
-9. Highest-Grossing Items
-10.  Increasing Sales Revenue
-11. Last Person to Fit in the Bus
-12. Manager with at least 5 direct reportees
-13. Mismatched IDs
-14. Odd and Even Measurements
-15. Onboarded Cities
-16. Qualifying Criteria
+9. Find Cumulative Salary of an Employee
+10. Highest-Grossing Items
+11. Increasing Sales Revenue
+12. Last Person to Fit in the Bus
+13. Manager with at least 5 direct reportees
+14. Mismatched IDs
+15. Odd and Even Measurements
+16. Onboarded Cities
+17. Qualifying Criteria
