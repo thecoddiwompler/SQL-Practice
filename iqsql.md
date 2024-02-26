@@ -15,3 +15,4 @@
 15. Odd and Even Measurements
 16. Onboarded Cities
 17. Qualifying Criteria
+18. Travel Analytics
