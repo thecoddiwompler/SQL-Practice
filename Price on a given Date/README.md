@@ -9,9 +9,10 @@
 
 ## 🛠️ Problem Statement
 
-* This Problem was asked in Freshworks interview.
+<b> This Problem was asked in Freshworks interview. </b>
 
-  <b>Table Name : sku</b>
+  
+<b>Table Name : sku</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
