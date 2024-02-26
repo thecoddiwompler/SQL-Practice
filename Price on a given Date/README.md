@@ -9,6 +9,8 @@
 
 ## 🛠️ Problem Statement
 
+* This Problem was asked in Freshworks interview.
+
   <b>Table Name : sku</b>
 
 |  Column Name  |Type |
