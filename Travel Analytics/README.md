@@ -33,7 +33,7 @@
 </br>
 
 <b> Please answer the following question: </b>
-1.  Write a SQL query to count the number of users in each user segment. also output the no of users who booked flight in Apr 2022.
+1. Write a SQL query to count the number of users in each user segment. Also output the no of users who booked flight in Apr 2022.
 2. Write a query to identify users whose first booking is hotel booking.
 3. Write a query to calculate the days between first and last booking of each user.
 4. Write a query to count the number of flight and hotel bookings in each of the user segments for the year 2022.
