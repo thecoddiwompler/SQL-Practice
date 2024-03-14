@@ -59,7 +59,7 @@ SELECT
             ORDER BY
                 b.employee
         )
-    )
+    ) members
 FROM
     all_emps b
     CROSS JOIN (
