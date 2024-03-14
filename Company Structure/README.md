@@ -27,7 +27,7 @@ Given graph shows the hierarchy of employees in a company.
 Write an SQL query to split the hierarchy and show the employees corresponding to their team.
 </br>
 
-![](/home/indrajeetmishra/Downloads/SQL-Practice/Company Structure/img/image.jpg)
+![](./img/image.jpg)
 
 <br/>
 Assumption: Assume that the total number of teams are the same as the number of people reporting to the person at top.
