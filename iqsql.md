@@ -3,19 +3,20 @@
 3. Child - Parent - Grandparent Hierarchy
 4. Clocked Hours
 5. Company Structure [Extra Difficult]
-6. Department Top 3 Salary
-7. Employees Check-in Details
-8. Employees Hiring [Difficult]
-9. Employees Log [Extra Difficult]
-10. Final Destination
-11. Find Cumulative Salary of an Employee
-12. Highest-Grossing Items
-13. Increasing Sales Revenue
-14. Last Person to Fit in the Bus
-15. Manager with at least 5 direct reportees
-16. Mismatched IDs
-17. Missing Invoices
-18. Odd and Even Measurements
-19. Onboarded Cities
-20. Qualifying Criteria
-21. Travel Analytics
+6. Count Mutual Friends [Difficult]
+7. Department Top 3 Salary
+8. Employees Check-in Details
+9. Employees Hiring [Difficult]
+10. Employees Log [Extra Difficult]
+11. Final Destination
+12. Find Cumulative Salary of an Employee
+13. Highest-Grossing Items
+14. Increasing Sales Revenue
+15. Last Person to Fit in the Bus
+16. Manager with at least 5 direct reportees
+17. Mismatched IDs
+18. Missing Invoices
+19. Odd and Even Measurements
+20. Onboarded Cities
+21. Qualifying Criteria
+22. Travel Analytics
