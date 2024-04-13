@@ -18,5 +18,6 @@
 18. Missing Invoices
 19. Odd and Even Measurements
 20. Onboarded Cities
-21. Qualifying Criteria
-22. Travel Analytics
+21. Popular Posts
+22. Qualifying Criteria
+23. Travel Analytics
