@@ -18,7 +18,7 @@
 * <b> roll_no is the primary key for this table.</b> </br>
 * This table gives roll_no and name of the students.</br>
 
-  <b>Table Name : student_marks</b>
+<b>Table Name : student_marks</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
@@ -33,7 +33,7 @@
 * <b> student_id is the primary key for this table. It is also a foreign key to the students table referencing to roll_no.</b> </br>
 * This table gives student_id and the marks of the students in 6 subjects.</br>
 
-  <b>Table Name : subjects</b>
+<b>Table Name : subjects</b>
 
 |  Column Name  |Type |
 | ------------- | ------------- |
