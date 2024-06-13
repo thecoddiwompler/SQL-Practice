@@ -20,5 +20,6 @@
 20. Onboarded Cities
 21. Popular Posts
 22. Qualifying Criteria
-23. Travel Analytics
-24. Vacations Record [Difficult]
+23. Student Details
+24. Travel Analytics
+25. Vacations Record [Difficult]
