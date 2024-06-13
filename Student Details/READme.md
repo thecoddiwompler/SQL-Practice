@@ -53,6 +53,7 @@ Write a SQL query display the following results for each student.
   - Result (if percentage >= 70% then 'First Class', if >= 50% & <70% then 'Second class', if <50% then 'Third class'.
   			The result should be 'Fail' if a students fails in any subject irrespective of the percentage marks).
 
+Students have the option to choose either 4 or 5 subjects only.
 
 Please refer to the sample below for a better idea.
 
