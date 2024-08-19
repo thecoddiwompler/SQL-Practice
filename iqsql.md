@@ -14,13 +14,14 @@
 14. Highest-Grossing Items
 15. Increasing Sales Revenue
 16. Last Person to Fit in the Bus
-17. Manager with at least 5 direct reportees
-18. Mismatched IDs
-19. Missing Invoices
-20. Odd and Even Measurements
-21. Onboarded Cities
-22. Popular Posts
-23. Qualifying Criteria
-24. Student Details
-25. Travel Analytics
-26. Vacations Record [Difficult]
+17. Lift Overloaded
+18. Manager with at least 5 direct reportees
+19. Mismatched IDs
+20. Missing Invoices
+21. Odd and Even Measurements
+22. Onboarded Cities
+23. Popular Posts
+24. Qualifying Criteria
+25. Student Details
+26. Travel Analytics
+27. Vacations Record [Difficult]
