@@ -53,10 +53,10 @@ Output
 | Friend1 | Friend2 | no_of_mutual_friends |
 |---------|---------|----------------------|
 | Jason   | Mary    | 2|
-| Mike    | Mary    |0|
+| Mike    | Mary    |1|
 | Mike    | Jason   |1|
 | Susan   | Jason   |1|
-| John    | Mary    |1|
+| John    | Mary    |0|
 | Susan   | Mary    |1|
 
 </details>
