@@ -1,21 +1,22 @@
-Create table If Not Exists Customer (customer_id int, product_key int)
-Create table Product (product_key int)
-Truncate table Customer
-insert into Customer (customer_id, product_key) values ('1', '5')
-insert into Customer (customer_id, product_key) values ('2', '6')
-insert into Customer (customer_id, product_key) values ('3', '5')
-insert into Customer (customer_id, product_key) values ('3', '6')
-insert into Customer (customer_id, product_key) values ('1', '6')
-Truncate table Product
-insert into Product (product_key) values ('5')
-insert into Product (product_key) values ('6')Create table If Not Exists Customer (customer_id int, product_key int)
-Create table Product (product_key int)
-Truncate table Customer
-insert into Customer (customer_id, product_key) values ('1', '5')
-insert into Customer (customer_id, product_key) values ('2', '6')
-insert into Customer (customer_id, product_key) values ('3', '5')
-insert into Customer (customer_id, product_key) values ('3', '6')
-insert into Customer (customer_id, product_key) values ('1', '6')
-Truncate table Product
-insert into Product (product_key) values ('5')
-insert into Product (product_key) values ('6')
+CREATE TABLE IF NOT EXISTS Customer (customer_id int, product_key int);
+
+CREATE TABLE Product (product_key int);
+
+TRUNCATE TABLE Customer;
+
+INSERT INTO
+    Customer (customer_id, product_key)
+VALUES
+    (1, '5'),
+    (2, '6'),
+    (3, '5'),
+    (3, '6'),
+    (1, '6');
+
+TRUNCATE TABLE Product;
+
+INSERT INTO
+    Product (product_key)
+VALUES
+    ('5'),
+    ('6');
