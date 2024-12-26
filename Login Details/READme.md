@@ -1,4 +1,4 @@
-# [Login Details](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)
+# [Login Details]
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 [![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/thecoddiwompler/SQL-Practice-Questions/tree/main)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/thecoddiwompler?tab=repositories)
@@ -64,9 +64,9 @@ Output
 | log_on | log_off | duration
 | ---- | ---- |  ---- |  
 | 10:00:00   | 10:03:00 | 3 |
-| 10:04:00   | 10:06:00 | 3 |
-| 10:09:00   | 10:13:00 | 3 |
-| 10:15:00   | 10:16:00 | 3 |
+| 10:04:00   | 10:06:00 | 2 |
+| 10:09:00   | 10:13:00 | 4 |
+| 10:15:00   | 10:16:00 | 1 |
 
 
 </details>
