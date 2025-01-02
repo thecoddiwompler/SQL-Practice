@@ -8,7 +8,7 @@ CREATE TABLE subscriber (
 -- insert some values
 
 INSERT INTO
-    subscriber (date, sender, receiver, amount)
+    subscriber (sms_date, sender, receiver, sms_no)
 VALUES
     ('2020-4-1', 'Avinash', 'Vibhor', 10),
     ('2020-4-1', 'Vibhor', 'Avinash', 20),
