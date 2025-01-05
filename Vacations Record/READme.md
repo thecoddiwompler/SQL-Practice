@@ -29,7 +29,7 @@
 | emp_id  | int  |
 | balance | int |
 
-* <b> emp_id is the primary key to this table and foreign key to emmp_id column in vacation_plans </b>
+* <b> emp_id is the primary key to this table and foreign key to emp_id column in vacation_plans </b>
 * This table tells the available leaves for each employee.
 
 Write a SQL query to determine if the vacations applied by each employee can be approved or not based on the available leave balance. 
