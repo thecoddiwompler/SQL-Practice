@@ -21,7 +21,7 @@
 This table provides Person's Name, their Parent's name, and the Person's Status (If they are Alive or not). 
 <br/>
 </br>
-<b>write an SQL query to return count of people whose grandparent is alive.</b>
+<b>Write a SQL query to return count of people whose grandparent is alive.</b>
 </br>
 </br>
 <b>The query result format is in the following example:  </b>
